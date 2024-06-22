@@ -1,0 +1,162 @@
+[
+    {
+        "partido": "A: Argentina-Canada",
+        "estadio": "Mercedes Benz Stadium, Atlanta, Georgia",
+        "fecha_inicio": "2024-06-20 21:00"
+    },
+    {
+        "partido": "A: Peru-Chile",
+        "estadio": "AT&T Stadium, Arlington, Texas",
+        "fecha_inicio": "2024-06-21 21:00"
+    },
+    {
+        "partido": "B: Ecuador-Venezuela",
+        "estadio": "Levi's Stadium, Santa Clara, California",
+        "fecha_inicio": "2024-06-22 19:00"
+    },
+    {
+        "partido": "B: Mexico-Jamaica",
+        "estadio": "NGR Stadium, Houston, Texas",
+        "fecha_inicio": "2024-06-22 21:00"
+    },
+    {
+        "partido": "C: Estados Unidos-Bolivia",
+        "estadio": "Hard Rock Stadium, Miami Gardens",
+        "fecha_inicio": "2024-06-23 19:00"
+    },
+    {
+        "partido": "C: Uruguay-Panama",
+        "estadio": "AT&T Stadium, Arlington, Texas",
+        "fecha_inicio": "2024-06-23 22:00"
+    },
+    {
+        "partido": "D: Colombia-Paraguay",
+        "estadio": "NGR Stadium, Houston, Texas",
+        "fecha_inicio": "2024-06-24 19:00"
+    },
+    {
+        "partido": "D: Brasil-Costa Rica",
+        "estadio": "SoFi Stadium, Inglewood, California",
+        "fecha_inicio": "2024-06-24 22:00"
+    },
+    {
+        "partido": "A: Peru-Canada",
+        "estadio": "Children's Mercy Park, Kansas City, Kansas",
+        "fecha_inicio": "2024-06-25 19:00"
+    },
+    {
+        "partido": "A: Chile-Argentina",
+        "estadio": "MetLife Stadium, East Rutherford, Nueva Jersey",
+        "fecha_inicio": "2024-06-25 22:00"
+    },
+    {
+        "partido": "B: Ecuador-Jamaica",
+        "estadio": "Allegiant Stadium, Las Vegas, Nevada",
+        "fecha_inicio": "2024-06-26 19:00"
+    },
+    {
+        "partido": "B: Venezuela-Mexico",
+        "estadio": "SoFi Stadium, Inglewood, California",
+        "fecha_inicio": "2024-06-26 22:00"
+    },
+    {
+        "partido": "C: Panama-Estados Unidos",
+        "estadio": "Mercedes Benz Stadium, Atlanta, Georgia",
+        "fecha_inicio": "2024-06-27 19:00"
+    },
+    {
+        "partido": "C: Uruguay-Bolivia",
+        "estadio": "MetLife Stadium, East Rutherford, Nueva Jersey",
+        "fecha_inicio": "2024-06-27 22:00"
+    },
+    {
+        "partido": "D: Colombia-Costa Rica",
+        "estadio": "State Farm Stadium, Glendale, Arizona",
+        "fecha_inicio": "2024-06-28 19:00"
+    },
+    {
+        "partido": "D: Paraguay-Brasil",
+        "estadio": "Allegiant Stadium, Las Vegas, Nevada",
+        "fecha_inicio": "2024-06-28 22:00"
+    },
+    {
+        "partido": "A: Argentina-Peru",
+        "estadio": "Hard Rock Stadium, Miami, Florida",
+        "fecha_inicio": "2024-06-29 21:00"
+    },
+    {
+        "partido": "A: Canada-Chile",
+        "estadio": "Inter&Co Stadium, Orlando, Florida",
+        "fecha_inicio": "2024-06-29 21:00"
+    },
+    {
+        "partido": "B: Jamaica-Venezuela",
+        "estadio": "Q2 Stadium, Austin, Texas",
+        "fecha_inicio": "2024-06-30 21:00"
+    },
+    {
+        "partido": "B: Mexico-Ecuador",
+        "estadio": "State Farm Stadium, Glendale, Arizona",
+        "fecha_inicio": "2024-06-30 21:00"
+    },
+    {
+        "partido": "C: Estados Unidos-Uruguay",
+        "estadio": "GEHA Field at Arrowhead, Kansas City, Missouri",
+        "fecha_inicio": "2024-07-01 22:00"
+    },
+    {
+        "partido": "C: Bolivia-Panama",
+        "estadio": "Inter&Co Stadium, Orlando, Florida",
+        "fecha_inicio": "2024-07-01 22:00"
+    },
+    {
+        "partido": "D: Brasil-Colombia",
+        "estadio": "Levi's Stadium, Santa Clara, California",
+        "fecha_inicio": "2024-07-02 22:00"
+    },
+    {
+        "partido": "D: Costa Rica-Paraguay",
+        "estadio": "Q2 Stadium, Austin, Texas",
+        "fecha_inicio": "2024-07-02 22:00"
+    },
+    {
+        "partido": "QF1: 1A vs. 2B",
+        "estadio": "NGR Stadium, Houston, Texas",
+        "fecha_inicio": "2024-07-04 22:00"
+    },
+    {
+        "partido": "QF2: 1B vs. 2A",
+        "estadio": "AT&T Stadium, Arlington, Texas",
+        "fecha_inicio": "2024-07-05 22:00"
+    },
+    {
+        "partido": "QF3: 1D vs. 2C",
+        "estadio": "State Farm Stadium, Glendale, Arizona",
+        "fecha_inicio": "2024-07-06 19:00"
+    },
+    {
+        "partido": "QF4: 1C vs. 2D",
+        "estadio": "Allegiant Stadium, Las Vegas, Nevada",
+        "fecha_inicio": "2024-07-06 22:00"
+    },
+    {
+        "partido": "SF1: Ganador QF1 vs. Ganador QF2",
+        "estadio": "MetLife Stadium, East Rutherford, Nueva Jersey",
+        "fecha_inicio": "2024-07-09 21:00"
+    },
+    {
+        "partido": "SF2: Ganador QF3 vs. Ganador QF4",
+        "estadio": "Bank of America Stadium, Charlotte",
+        "fecha_inicio": "2024-07-10 21:00"
+    },
+    {
+        "partido": "3RD: Perdedor SF1 vs. Perdedor SF2",
+        "estadio": "Bank of America Stadium, Charlotte",
+        "fecha_inicio": "2024-07-13 21:00"
+    },
+    {
+        "partido": "FINAL: Ganador SF1 vs. Ganador SF2",
+        "estadio": "Hard Rock Stadium, Miami Gardens, Charlotte",
+        "fecha_inicio": "2024-07-14 21:00"
+    }
+]
